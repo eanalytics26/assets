@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 206px;line-height: 222px;fill: #071d41;font-weight: bold;font-family: "Times New Roman" } 
+		.t1 { font-size: 206px;line-height: 222px;fill: #fabd10;font-weight: bold;font-family: "Times New Roman" } 
+	</style>
+	<g id="Pasta 1">
+		<text id="A" style="transform: matrix(1.708,0,0,1.708,229.178,375.331)">
+			<tspan x="0" y="0" class="t0">A</tspan><tspan  y="0" class="t0">
+</tspan>
+		</text>
+		<text id="." style="transform: matrix(1.708,0,0,1.708,200.238,279.702)">
+			<tspan x="0" y="0" class="t1">.</tspan><tspan  y="0" class="t1">
+</tspan>
+		</text>
+		<text id="E" style="transform: matrix(1.708,0,0,1.708,24.079,375.331)">
+			<tspan x="0" y="0" class="t0">E</tspan><tspan  y="0" class="t0">
+</tspan>
+		</text>
+	</g>
+</svg>
